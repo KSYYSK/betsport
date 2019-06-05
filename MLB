@@ -1,2 +1,2 @@
-buy home if : home<1.5 && away>2
-buy away if : home>1.5 && away<2
+buy home if : home<1.45 && away>2.2
+buy away if : home>1.45 && away<2
