@@ -1,3 +1,4 @@
+'뉴욕' 들어간 팀은 우선 거른다
 #1
 buy home if : home<1.45 && away>2.2
 buy away if : home>1.45 && away<2
