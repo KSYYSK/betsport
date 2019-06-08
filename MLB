@@ -1,3 +1,7 @@
+#1
 buy home if : home<1.45 && away>2.2
 buy away if : home>1.45 && away<2
 +배팅차이가 수상할정도로 너무 크지않을 때
+
+#2
+the ones that are over 0.7 ~ 1 differences
